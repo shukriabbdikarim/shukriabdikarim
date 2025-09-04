@@ -1,0 +1,12 @@
+Skriv en hälsning till dig själv 6 månader framåt:
+
+Vad hoppas du kunna då?
+Jag hoppas att om 6 månader att jag har fått mer förståelse för hela kodning, Github mm.
+
+Vad kämpar du med nu?
+Just nu kämpar jag med att förstå alla steg i Git, såsom commit, branch och merge. 
+jag kämpar med att komma ihåg ordningen och testa själv.
+
+Vad vill du minnas?
+Jag vill minnas att jag utvecklades steg för steg.
+Jag vill minnas att jag inte gav upp även när det känndes svårt.
